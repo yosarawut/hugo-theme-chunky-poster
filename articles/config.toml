@@ -1,4 +1,4 @@
-baseURL = "https://knowledge-dragons.github.io/KM/articles/"
+baseURL = "https://knowledge-dragons.github.io/KM/articles"
 title = "Hugo Themes"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 2
@@ -30,9 +30,9 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
-  description = "Lorem ipsum dolor sit amet."
-  homepageImage = "/images/homepage-image.jpg"
+  author = "admin"
+  description = "Little Dragon"
+  homepageImage = "/images/little_dragon.jpg"
   share = true
   showLanguageSwitcher = false
 

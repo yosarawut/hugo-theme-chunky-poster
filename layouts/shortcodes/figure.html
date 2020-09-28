@@ -6,7 +6,7 @@
              {{- end -}}
              {{- with .Get "width" }} width="{{ . }}"{{ end -}}
              {{- with .Get "height" }} height="{{ . }}"{{ end -}}
-             class="figure-img img-fluid"
+             class="figure-img"
         /> <!-- Closing img tag -->
     </a>
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}

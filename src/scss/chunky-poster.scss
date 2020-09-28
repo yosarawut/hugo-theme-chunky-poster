@@ -57,6 +57,7 @@ figure.highlight {
 
 img[data-src] {
     opacity: 0;
+    max-width:90%;
     @include transition($transition-fade);
 
     &.loaded {

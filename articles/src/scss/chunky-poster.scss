@@ -14,9 +14,9 @@
 
 blockquote {
     color: $gray-400;
-    border-left: 6px solid $gray-400;
+    border-left: 6px solid $gray-800;
     padding-left: $spacer;
-}
+    background-color:green;
 
 code {
     background-color: $gray-100;
@@ -95,4 +95,11 @@ p img {
 
 .figure-img {
     max-width: 700px;
+}
+
+blockquote .blockquote p {
+
+    background-color: green;
+    color:red;
+
 }

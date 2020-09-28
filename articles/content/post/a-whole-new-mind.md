@@ -23,7 +23,7 @@ images = [
 ในโลกสมัยใหม่ที่หุ่นยนต์เข้ามาทำงานแทนคนได้แทบทุกด้าน คุณจะแน่ใจได้ยังไงว่าตัวเองจะไม่ถูกทิ้งไว้ข้างหลัง? ทักษะของคุณกำลังล้าสมัยหรือไม่? ทักษะอะไรจะเป็นที่ต้องการในอนาคต? บริษัทสมัยใหม่อย่าง  [Google](https://stackedit.io/[https://bingobook.co/book-summary/how-google-works](https://bingobook.co/book-summary/how-google-works))  และ  [Facebook](https://stackedit.io/[https://bingobook.co/book-summary/think-like-zuck/](https://bingobook.co/book-summary/think-like-zuck/))  อยากจ้างคนแบบไหน? ในโลกที่มีวิธีทำงานแบบใหม่ ([Deep Work](https://stackedit.io/[https://bingobook.co/book-summary/deep-work](https://bingobook.co/book-summary/deep-work))) คุณจะปรับตัวเข้ากับมันอย่างไร?
 
 หนังสือ  **A Whole New Mind**  เล่มนี้มีคำตอบครับ
-
+<!--more-->
 หนังสือเล่มนี้เขียนโดยคุณแดเนียล พิ้งค์ จะมาเล่าให้คุณรู้ว่าควรฝึกฝนทักษะอะไร เรียนคณะไหน และต้องปรับตัวอย่างไร ทักษะที่สำคัญในอนาคตกำลังจะเปลี่ยนไป … หลักคิด “ไม่เป็นหมอก็วิศวะ” จะยังใช้ได้จริงในอนาคตข้างหน้าอยู่หรือเปล่า?
 
 เรามาดูกันครับ
